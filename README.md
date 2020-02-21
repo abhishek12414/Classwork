@@ -1,5 +1,5 @@
 # Classwork
-An application for project status tracking and communication.
+An android application for project status tracking and communication.
 
 ## MCA Project
 
